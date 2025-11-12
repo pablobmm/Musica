@@ -1,6 +1,6 @@
 package br.com.alura.minhasmusicas.modelos;
 
-public class Musica {
+public class Musica extends Audio{
     private String audio;
     private String cantor;
     private String genero;
